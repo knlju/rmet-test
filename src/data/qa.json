@@ -1,182 +1,182 @@
 [
   {
-    "correct_answer": "playful",
-    "options": ["comforting", "irritated", "bored"],
+    "correctAnswer": "playful",
+    "options": ["playful", "comforting", "irritated", "bored"],
     "image": "/assets/images/1.jpg"
   },
   {
-    "correct_answer": "upset",
-    "options": ["terrified", "arrogant", "annoyed"],
+    "correctAnswer": "upset",
+    "options": ["upset", "terrified", "arrogant", "annoyed"],
     "image": "/assets/images/2.jpg"
   },
   {
-    "correct_answer": "desire",
-    "options": ["joking", "flustered", "convinced"],
+    "correctAnswer": "desire",
+    "options": ["desire", "joking", "flustered", "convinced"],
     "image": "/assets/images/3.jpg"
   },
   {
-    "correct_answer": "insisting",
-    "options": ["joking", "amused", "relaxed"],
+    "correctAnswer": "insisting",
+    "options": ["insisting", "joking", "amused", "relaxed"],
     "image": "/assets/images/4.jpg"
   },
   {
-    "correct_answer": "worried",
-    "options": ["irritated", "sarcastic", "friendly"],
+    "correctAnswer": "worried",
+    "options": ["worried", "irritated", "sarcastic", "friendly"],
     "image": "/assets/images/5.jpg"
   },
   {
-    "correct_answer": "fantasizing",
-    "options": ["aghast", "impatient", "alarmed"],
+    "correctAnswer": "fantasizing",
+    "options": ["fantasizing", "aghast", "impatient", "alarmed"],
     "image": "/assets/images/6.jpg"
   },
   {
-    "correct_answer": "uneasy",
-    "options": ["apologetic", "friendly", "dispirited"],
+    "correctAnswer": "uneasy",
+    "options": ["uneasy", "apologetic", "friendly", "dispirited"],
     "image": "/assets/images/7.jpg"
   },
   {
-    "correct_answer": "despondent",
-    "options": ["relieved", "shy", "excited"],
+    "correctAnswer": "despondent",
+    "options": ["despondent", "relieved", "shy", "excited"],
     "image": "/assets/images/8.jpg"
   },
   {
-    "correct_answer": "preoccupied",
-    "options": ["annoyed", "hostile", "horrified"],
+    "correctAnswer": "preoccupied",
+    "options": ["preoccupied", "annoyed", "hostile", "horrified"],
     "image": "/assets/images/9.jpg"
   },
   {
-    "correct_answer": "cautious",
-    "options": ["bored", "insisting", "aghast"],
+    "correctAnswer": "cautious",
+    "options": ["cautious", "bored", "insisting", "aghast"],
     "image": "/assets/images/10.jpg"
   },
   {
-    "correct_answer": "regretful",
-    "options": ["flirtatious", "amused", "terrified"],
+    "correctAnswer": "regretful",
+    "options": ["regretful", "flirtatious", "amused", "terrified"],
     "image": "/assets/images/11.jpg"
   },
   {
-    "correct_answer": "skeptical",
-    "options": ["indifferent", "embarrassed", "dispirited"],
+    "correctAnswer": "skeptical",
+    "options": ["skeptical", "indifferent", "embarrassed", "dispirited"],
     "image": "/assets/images/12.jpg"
   },
   {
-    "correct_answer": "anticipating",
-    "options": ["decisive", "shy", "threatening"],
+    "correctAnswer": "anticipating",
+    "options": ["anticipating", "decisive", "shy", "threatening"],
     "image": "/assets/images/13.jpg"
   },
   {
-    "correct_answer": "accusing",
-    "options": ["irritated", "depressed", "disappointed"],
+    "correctAnswer": "accusing",
+    "options": ["accusing", "irritated", "depressed", "disappointed"],
     "image": "/assets/images/14.jpg"
   },
   {
-    "correct_answer": "contemplative",
-    "options": ["flustered", "encouraging", "amused"],
+    "correctAnswer": "contemplative",
+    "options": ["contemplative", "flustered", "encouraging", "amused"],
     "image": "/assets/images/15.jpg"
   },
   {
-    "correct_answer": "thoughtful",
-    "options": ["irritated", "encouraging", "sympathetic"],
+    "correctAnswer": "thoughtful",
+    "options": ["thoughtful", "irritated", "encouraging", "sympathetic"],
     "image": "/assets/images/16.jpg"
   },
   {
-    "correct_answer": "doubtful",
-    "options": ["affectionate", "playful", "aghast"],
+    "correctAnswer": "doubtful",
+    "options": ["doubtful", "affectionate", "playful", "aghast"],
     "image": "/assets/images/17.jpg"
   },
   {
-    "correct_answer": "decisive",
-    "options": ["amused", "aghast", "bored"],
+    "correctAnswer": "decisive",
+    "options": ["decisive", "amused", "aghast", "bored"],
     "image": "/assets/images/18.jpg"
   },
   {
-    "correct_answer": "tentative",
-    "options": ["sarcastic", "arrogant", "grateful"],
+    "correctAnswer": "tentative",
+    "options": ["tentative", "sarcastic", "arrogant", "grateful"],
     "image": "/assets/images/19.jpg"
   },
   {
-    "correct_answer": "friendly",
-    "options": ["dominant", "guilty", "horrified"],
+    "correctAnswer": "friendly",
+    "options": ["friendly", "dominant", "guilty", "horrified"],
     "image": "/assets/images/20.jpg"
   },
   {
-    "correct_answer": "fantasizing",
-    "options": ["embarrassed", "confused", "panicked"],
+    "correctAnswer": "fantasizing",
+    "options": ["fantasizing", "embarrassed", "confused", "panicked"],
     "image": "/assets/images/21.jpg"
   },
   {
-    "correct_answer": "preoccupied",
-    "options": ["insisting", "imploring", "grateful"],
+    "correctAnswer": "preoccupied",
+    "options": ["preoccupied", "insisting", "imploring", "grateful"],
     "image": "/assets/images/22.jpg"
   },
   {
-    "correct_answer": "defiant",
-    "options": ["contented", "apologetic", "curious"],
+    "correctAnswer": "defiant",
+    "options": ["defiant", "contented", "apologetic", "curious"],
     "image": "/assets/images/23.jpg"
   },
   {
-    "correct_answer": "pensive",
-    "options": ["excited", "irritated", "hostile"],
+    "correctAnswer": "pensive",
+    "options": ["pensive", "excited", "irritated", "hostile"],
     "image": "/assets/images/24.jpg"
   },
   {
-    "correct_answer": "interested",
-    "options": ["despondent", "panicked", "incredulous"],
+    "correctAnswer": "interested",
+    "options": ["interested", "despondent", "panicked", "incredulous"],
     "image": "/assets/images/25.jpg"
   },
   {
-    "correct_answer": "hostile",
-    "options": ["shy", "anxious", "alarmed"],
+    "correctAnswer": "hostile",
+    "options": ["hostile", "shy", "anxious", "alarmed"],
     "image": "/assets/images/26.jpg"
   },
   {
-    "correct_answer": "cautious",
-    "options": ["arrogant", "joking", "embarrassed"],
+    "correctAnswer": "cautious",
+    "options": ["cautious", "arrogant", "joking", "embarrassed"],
     "image": "/assets/images/27.jpg"
   },
   {
-    "correct_answer": "interested",
-    "options": ["affectionate", "joking", "contented"],
+    "correctAnswer": "interested",
+    "options": ["interested", "affectionate", "joking", "contented"],
     "image": "/assets/images/28.jpg"
   },
   {
-    "correct_answer": "reflective",
-    "options": ["aghast", "irritated", "impatient"],
+    "correctAnswer": "reflective",
+    "options": ["reflective", "aghast", "irritated", "impatient"],
     "image": "/assets/images/29.jpg"
   },
   {
-    "correct_answer": "flirtatious",
-    "options": ["hostile", "grateful", "disappointed"],
+    "correctAnswer": "flirtatious",
+    "options": ["flirtatious", "hostile", "grateful", "disappointed"],
     "image": "/assets/images/30.jpg"
   },
   {
-    "correct_answer": "confident",
-    "options": ["joking", "dispirited", "ashamed"],
+    "correctAnswer": "confident",
+    "options": ["confident", "joking", "dispirited", "ashamed"],
     "image": "/assets/images/31.jpg"
   },
   {
-    "correct_answer": "serious",
-    "options": ["ashamed", "alarmed", "bewildered"],
+    "correctAnswer": "serious",
+    "options": ["serious", "ashamed", "alarmed", "bewildered"],
     "image": "/assets/images/32.jpg"
   },
   {
-    "correct_answer": "concerned",
-    "options": ["guilty", "embarrassed", "fantasizing"],
+    "correctAnswer": "concerned",
+    "options": ["concerned", "guilty", "embarrassed", "fantasizing"],
     "image": "/assets/images/33.jpg"
   },
   {
-    "correct_answer": "distrustful",
-    "options": ["aghast", "terrified", "baffled"],
+    "correctAnswer": "distrustful",
+    "options": ["distrustful", "aghast", "terrified", "baffled"],
     "image": "/assets/images/34.jpg"
   },
   {
-    "correct_answer": "nervous",
-    "options": ["puzzled", "insisting", "contemplative"],
+    "correctAnswer": "nervous",
+    "options": ["nervous", "puzzled", "insisting", "contemplative"],
     "image": "/assets/images/35.jpg"
   },
   {
-    "correct_answer": "suspicious",
-    "options": ["ashamed", "indecisive", "nervous"],
+    "correctAnswer": "suspicious",
+    "options": ["suspicious", "ashamed", "indecisive", "nervous"],
     "image": "/assets/images/36.jpg"
   }
 ]

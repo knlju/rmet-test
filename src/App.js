@@ -1,15 +1,5 @@
-import Quiz from './components/Quiz';
-import './App.css';
+import RMET from './components/RMET'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Reading the Mind in the Eyes Test, RMET</h1>
-      </header>
-      <Quiz />
-    </div>
-  );
+export default function App() {
+  return <RMET />
 }
-
-export default App;
