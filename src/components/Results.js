@@ -1,12 +1,13 @@
 import qaArray from '../data/qa.json'
 
-const calculateScore = (answers) => {
-  return qaArray.reduce((accumulator, currentValue, index) => {
-    return currentValue.correctAnswer === answers[index]
-      ? accumulator + 1
-      : accumulator
-  }, 0)
-}
+const calculateScore = (answers) =>
+  qaArray.reduce(
+    (accumulator, currentValue, index) =>
+      currentValue.correctAnswer === answers[index]
+        ? accumulator + 1
+        : accumulator,
+    0
+  )
 
 const Results = (answers) => {
   const score = calculateScore(answers)
