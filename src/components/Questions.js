@@ -65,8 +65,7 @@ const Questions = ({ finishQuestions, answers, addAnswer }) => {
           })}
         </div>
         <div className="pt-4 flex justify-end">
-          {/*{index + 1 === qaArray.length ? (*/}
-          {true ? (
+          {index + 1 === qaArray.length ? (
             <button
               className="bg-gray-100 text-black-700 font-bold py-2 px-4 rounded-r"
               onClick={finishQuestions}
