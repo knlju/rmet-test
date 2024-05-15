@@ -40,17 +40,17 @@ const Questions = ({ finishQuestions, answers, addAnswer }) => {
         <div className="flex gap-1 justify-center flex-wrap">
           {qaCurr.options.map((option) => {
             let className =
-              'bg-white text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow w-[125px]'
+              'bg-white text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow w-[135px]'
             if (questionAnswer) {
               if (option === qaCurr.correctAnswer) {
                 className =
-                  'bg-green-700 text-white font-bold py-2 px-4 rounded shadow w-[125px]'
+                  'bg-green-700 text-white font-bold py-2 px-4 rounded shadow w-[135px]'
               } else if (questionAnswer === option) {
                 className =
-                  'bg-red-700 text-white font-bold py-2 px-4 rounded shadow w-[125px]'
+                  'bg-red-700 text-white font-bold py-2 px-4 rounded shadow w-[135px]'
               } else {
                 className =
-                  'opacity-50 bg-white text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow w-[125px]'
+                  'opacity-50 bg-white text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow w-[135px]'
               }
             }
             return (
