@@ -13,7 +13,7 @@ const Results = ({ answers }) => {
   const score = calculateScore(answers)
   return (
     <div className="max-w-sm w-full lg:flex mx-auto mt-6">
-      <div className="p-10 border border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
+      <div className="p-10 border border-gray-400 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r flex flex-col justify-between leading-normal">
         <h2 className="mb-4 text-3xl font-extrabold leading-none tracking-tight text-gray-900 md:text-4xl dark:text-white">
           You scored {score} out of {qaArray.length}
         </h2>
