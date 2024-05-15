@@ -9,7 +9,7 @@ const calculateScore = (answers) =>
     0
   )
 
-const Results = (answers) => {
+const Results = ({ answers }) => {
   const score = calculateScore(answers)
   return (
     <div className="max-w-sm w-full lg:flex mx-auto mt-6">
